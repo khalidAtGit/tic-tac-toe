@@ -47,10 +47,6 @@ To get started with the Tic Tac Toe game, follow these steps:
 - If a player wins, a message will be displayed announcing the winner.
 - To restart the game at any point, click the "Restart" button at the top right corner.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
